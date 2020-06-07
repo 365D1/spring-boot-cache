@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    include:
+      - database
+entity:
+  packages: com._365d1.cache.model
